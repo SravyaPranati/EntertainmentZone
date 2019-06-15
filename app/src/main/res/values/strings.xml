@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EntertainmentZone</string>
+    <string name="entertainment_zone">Entertainment Zone</string>
+    <string name="popular_teleshows">Popular TeleShows</string>
+    <string name="top_rated_teleshows">Top_Rated TeleShows</string>
+    <string name="favorite_teleshows">Favorite TeleShows</string>
+    <string name="internet">Favorites are displayed when there is no Internet Connection</string>
+    <string name="rating">Rating</string>
+    <string name="title">Title</string>
+    <string name="popularity">Popularity</string>
+    <string name="plot_synopsis">Plot Synopsis</string>
+    <string name="content">Content</string>
+    <string name="author">Author</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="posterpath">PosterPath</string>
+    <string name="image">image</string>
+    <string name="video">video</string>
+    <string name="video_share">video</string>
+    <string name="fav_button">Fav_Button</string>
+    <string name="review_button">Review Button</string>
+    <string name="failcode">signInResult:failed code=</string>
+    <string name="failed">Failed try again..!</string>
+    <string name="signin">Signed-In with</string>
+    <string name="review">Reviews</string>
+    <string name="unfav">UN FAVORITE</string>
+    <string name="fav">ADD TO FAVORITE</string>
+    <string name="obj">object</string>
+    <string name="p_path">poster_path</string>
+    <string name="tt">text/plain</string>
+    <string name="sharefriends">SHARE THIS VIDEO WITH FRIENDS</string>
+    <string name="fname">myfilename</string>
+    <string name="sp_title">TITLE</string>
+    <string name="ndf">NO DATA FOUND</string>
+</resources>
